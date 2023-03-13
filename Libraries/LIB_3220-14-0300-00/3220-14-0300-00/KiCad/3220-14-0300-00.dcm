@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3220-14-0300-00
+D IDC BOX HEADER 0.050 14 POS
+K
+F http://cnctech.us/pdfs/3220-XX-0300-00.pdf
+$ENDCMP
+#
+#End Doc Library

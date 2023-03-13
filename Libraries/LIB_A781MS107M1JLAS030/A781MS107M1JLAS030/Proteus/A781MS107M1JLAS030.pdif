@@ -1,0 +1,120 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "A781MS107M1JLAS030"
+   (description "A781, Aluminum, Hybrid Polymer, 100 uF, 20%, 63 VDC, -55/+135C, 135C, -55C, 135C, 2,000 Hrs, 8 % , 30 mOhms, 63 uA, 10mm, 12.2mm, 400, 52  Weeks")
+   (family "CAP")
+   (package "CAPAE1030X1270N")
+   (attribute "Datasheet Link" "https://content.kemet.com/datasheets/KEM_A4112_A781.pdf")
+   (attribute "Geometry.Height" "12.7mm")
+   (attribute "Mouser Part Number" "80-A781MS107M1JLAS30")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/A781MS107M1JLAS030?qs=Li%252BoUPsLEnszoAyJyuwSrg%3D%3D")
+   (attribute "Manufacturer_Name" "KEMET")
+   (attribute "Manufacturer_Part_Number" "A781MS107M1JLAS030")
+   (gate
+    (symbol "A781MS107M1JLAS030")
+    (pin "+" 1 PS)
+    (pin "-" 2 PS)
+   )
+  )
+  (symbol "A781MS107M1JLAS030"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 200 -100) (pt 230 -100) (pt 230 100) (pt 200 100) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 180 50) (pt 140 50))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 160 70) (pt 160 30))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 200 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 0) (pt 400 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 300 100) (pt 300 -100) (pt 270 -100) (pt 270 100) (pt 300 100))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 500 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "CAPAE1030X1270N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -6.8 5.75)
+      (pt 6.8 5.75)
+      (pt 6.8 -5.75)
+      (pt -6.8 -5.75)
+      (pt -6.8 5.75))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 5.15 5.15)
+      (pt -2.575 5.15)
+      (pt -5.15 2.575)
+      (pt -5.15 -2.575)
+      (pt -2.575 -5.15)
+      (pt 5.15 -5.15)
+      (pt 5.15 5.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -6.3 5.15)
+      (pt 5.15 5.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.575 -5.15)
+      (pt 5.15 -5.15))))
+   (leg 1 (pt -4.25 0) (padstack 0))
+   (leg 2 (pt 4.25 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 2.15 4.1 0 0 0))
+   )
+   (model "A781MS107M1JLAS030.stp"
+    (euler 90 0 0)
+    (offset -5.25 -5.25 0.20000000298023224)
+   )
+  )
+ )
+)

@@ -1,0 +1,20 @@
+.3220-14-0300-00 :1 ;IDC BOX HEADER 0.050 14 POS
+"322014030000"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10" 11="11" 12="12" 13="13" 14="14"
+*MXP 14
+*DFN 3220-14-0300-00
+~!Manufacturer_Name (CNC Tech)
+~!Manufacturer_Part_Number (3220-14-0300-00)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (3220-14-0300-00)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/3220-14-0300-00/cnc-tech-llc)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (http://cnctech.us/pdfs/3220-XX-0300-00.pdf)
+~!Height (5.8mm)
+~!3D_Model (3220-14-0300-00)
+"3220-14-0300-00"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 

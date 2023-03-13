@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=6EDL7141
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=49
+Version=2.1
+Released=2021-06-14 12:49:25
+Downloaded=2023-02-25 07:46:05
+3D=Y

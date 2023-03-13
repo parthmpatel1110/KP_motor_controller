@@ -1,0 +1,19 @@
+.6EDL7141 :1 ;3 phase smart gate driver, PG-VQFN-48-78
+QFN50P700X700X90-49N-D
+*STM IC
+*NGS
+*PLB 1="NSCS" 2="SCLK" 3="SDO" 4="SDI" 5="NFAULT" 6="INHA" 7="INLA" 8="INHB" 9="INLB" 10="INHC" 11="INLC" 12="CS_GAIN/ AZ" 13="VSENSE/ NBRAKE" 14="DVDD" 15="PVDD" 16="PH" 17="PGND" 18="VDDB" 19="CP1L" 20="CP1H" 21="CP2L" 22="CP2H" 23="VCCLS" 24="VCCHS" 25="GHC" 26="SHC" 27="N.C._1" 28="GLC" 29="SLC" 30="CSNC" 31="CSNB" 32="SLB" 33="GLB" 34="N.C._2" 35="SHB" 36="GHB" 37="GHA" 38="SHA" 39="N.C._3" 40="GLA" 41="SLA" 42="CSNA" 43="CSOA" 44="CSOB" 45="CSOC" &
+46="VREF" 47="CE" 48="EN_DRV" 49="EP"
+*MXP 49
+*DFN 6EDL7141
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (6EDL7141)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.infineon.com/dgdl/Infineon-6EDL7141-DataSheet-v01_00-EN.pdf?fileId=5546d46279cccfdb0179f4c1d3bf0756)
+~!Height (0.9mm)
+~!3D_Model (6EDL7141)
+"6EDL7141"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 36.1!U 35.1!U 34.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 49.1!U 48.1!U 47.1!U 46.1!U 45.1!U 44.1!U 43.1!U 42.1!U 41.1!U 40.1!U 39.1!U 38.1!U 37.1!U 

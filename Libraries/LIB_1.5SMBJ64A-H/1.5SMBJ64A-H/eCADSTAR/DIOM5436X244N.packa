@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "1_5SMBJ64A-H"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-11-03-05:03:13)
+    (mountForm default
+        (footprintRef "DIOM5436X244N")
+        (spec "System")
+    )
+)

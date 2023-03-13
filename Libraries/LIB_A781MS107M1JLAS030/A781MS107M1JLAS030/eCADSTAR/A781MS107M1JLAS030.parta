@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_16548873"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-08-31-03:19:46)
+    (utime 2022-09-10-19:01:17)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "A781MS107M1JLAS030")
+)
+
+
+(pinAssign "ECS_16548873"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-08-31-03:19:46)
+    (utime 2022-09-10-19:01:17)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_16548873")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "A781MS107M1JLAS030")
+)
+
+
+(part "A781MS107M1JLAS030"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-08-31-03:19:46)
+    (utime 2022-09-10-19:01:17)
+    (packageRef "A781MS107M1JLAS030")
+    (pinAssignRef "ECS_16548873")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "A781, Aluminum, Hybrid Polymer, 100 uF, 20%, 63 VDC, -55/+135C, 135C, -55C, 135C, 2,000 Hrs, 8 % , 30 mOhms, 63 uA, 10mm, 12.2mm, 400, 52  Weeks")
+    (property "Mouser_Part_Number" "80-A781MS107M1JLAS30")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/A781MS107M1JLAS030?qs=Li%252BoUPsLEnszoAyJyuwSrg%3D%3D")
+    (property "Manufacturer_Name" "KEMET")
+    (property "Manufacturer_Part_Number" "A781MS107M1JLAS030")
+    (property "Datasheet_Link" "https://content.kemet.com/datasheets/KEM_A4112_A781.pdf")
+    (property "compAreaTopHeight" 12.7)
+)
+
+

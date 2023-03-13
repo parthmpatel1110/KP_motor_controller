@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A781MS107M1JLAS030
+D A781, Aluminum, Hybrid Polymer, 100 uF, 20%, 63 VDC, -55/+135C, 135C, -55C, 135C, 2,000 Hrs, 8 % , 30 mOhms, 63 uA, 10mm, 12.2mm, 400, 52  Weeks
+K
+F https://content.kemet.com/datasheets/KEM_A4112_A781.pdf
+$ENDCMP
+#
+#End Doc Library

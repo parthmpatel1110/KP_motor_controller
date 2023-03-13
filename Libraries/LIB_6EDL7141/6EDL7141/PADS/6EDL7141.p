@@ -1,0 +1,68 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+6EDL7141 QFN50P700X700X90-49N-D I ANA 9 1 0 0 0
+TIMESTAMP 2023.02.25.07.46.05
+"Manufacturer_Name" Infineon
+"Manufacturer_Part_Number" 6EDL7141
+"Mouser Part Number" 
+"Mouser Price/Stock" 
+"Arrow Part Number" 
+"Arrow Price/Stock" 
+"Description" 3 phase smart gate driver, PG-VQFN-48-78
+"Datasheet Link" https://www.infineon.com/dgdl/Infineon-6EDL7141-DataSheet-v01_00-EN.pdf?fileId=5546d46279cccfdb0179f4c1d3bf0756
+"Geometry.Height" 0.9mm
+GATE 1 49 0
+6EDL7141
+1 0 U NSCS
+2 0 U SCLK
+3 0 U SDO
+4 0 U SDI
+5 0 U NFAULT
+6 0 U INHA
+7 0 U INLA
+8 0 U INHB
+9 0 U INLB
+10 0 U INHC
+11 0 U INLC
+12 0 U CS_GAIN/_AZ
+13 0 U VSENSE/_NBRAKE
+14 0 U DVDD
+15 0 U PVDD
+16 0 U PH
+17 0 U PGND
+18 0 U VDDB
+19 0 U CP1L
+20 0 U CP1H
+21 0 U CP2L
+22 0 U CP2H
+23 0 U VCCLS
+24 0 U VCCHS
+36 0 U GHB
+35 0 U SHB
+34 0 U N.C._2
+33 0 U GLB
+32 0 U SLB
+31 0 U CSNB
+30 0 U CSNC
+29 0 U SLC
+28 0 U GLC
+27 0 U N.C._1
+26 0 U SHC
+25 0 U GHC
+49 0 U EP
+48 0 U EN_DRV
+47 0 U CE
+46 0 U VREF
+45 0 U CSOC
+44 0 U CSOB
+43 0 U CSOA
+42 0 U CSNA
+41 0 U SLA
+40 0 U GLA
+39 0 U N.C._3
+38 0 U SHA
+37 0 U GHA
+
+*END*
+*REMARK* SamacSys ECAD Model
+14613692/1023262/2.49/49/2/Integrated Circuit

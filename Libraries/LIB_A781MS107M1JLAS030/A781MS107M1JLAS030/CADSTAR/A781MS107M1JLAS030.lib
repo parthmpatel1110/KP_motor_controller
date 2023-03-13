@@ -1,0 +1,16 @@
+.A781MS107M1JLAS030 :1 ;A781, Aluminum, Hybrid Polymer, 100 uF, 20%, 63 VDC, -55/+135C, 135C, -55C, 135C, 2,000 Hrs, 8 % , 30 mOhms, 63 uA, 10mm, 12.2mm, 400, 52  Weeks
+CAPAE1030X1270N
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN A781MS107M1JLAS030
+~!Mouser Part Number (80-A781MS107M1JLAS30)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/KEMET/A781MS107M1JLAS030?qs=Li%252BoUPsLEnszoAyJyuwSrg%3D%3D)
+~!Manufacturer_Name (KEMET)
+~!Manufacturer_Part_Number (A781MS107M1JLAS030)
+~!Link Datasheet (https://content.kemet.com/datasheets/KEM_A4112_A781.pdf)
+~!Height (12.7mm)
+~!3D_Model (A781MS107M1JLAS030)
+A781MS107M1JLAS030
+1.1!U 2.1!U 

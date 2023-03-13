@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1.5SMBJ64A_H'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "1.5SMBJ64A-H" (!) = "", "DIOM5436X244N", "Diodes Moulded", "652-1.5SMBJ64A-H", "https://www.mouser.co.uk/ProductDetail/Bourns/1.5SMBJ64A-H?qs=Wj%2FVkw3K%252BMCCPLZlDmUuyA%3D%3D", "DIO TVS VRWM 64V 1500W UNIDIR SMB 7" REEL", "https://www.bourns.com/docs/product-datasheets/smbj.pdf?sfvrsn=34552159_17", "2.44 mm"
+END_PART
+
+END.

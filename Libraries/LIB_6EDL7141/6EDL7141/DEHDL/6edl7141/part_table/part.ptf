@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '6EDL7141'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "6EDL7141" (!) = "", "QFN50P700X700X90-49N-D", "Quad Flat No-Lead", "", "", "", "", "3 phase smart gate driver, PG-VQFN-48-78", "https://www.infineon.com/dgdl/Infineon-6EDL7141-DataSheet-v01_00-EN.pdf?fileId=5546d46279cccfdb0179f4c1d3bf0756", "0.9 mm"
+END_PART
+
+END.

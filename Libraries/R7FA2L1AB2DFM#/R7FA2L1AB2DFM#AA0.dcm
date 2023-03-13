@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R7FA2L1AB2DFM#AA0
+D The RA2L1 MCU group are 48MHz Arm Cortex-M23 general purpose microcontrollers. These MCUs are designed for ultra-low power consumption, with several integrated features to lower BOM costs, including capacitive touch sensing, embedded flash memory densities up to 256 KB, SRAM at 32 KB, analog, communications, and timing peripherals, and safety and security functions.
+K
+F https://www.renesas.com/eu/en/document/dst/ra2l1-group-datasheet
+$ENDCMP
+#
+#End Doc Library

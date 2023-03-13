@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'A781MS107M1JLAS030'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "KEMET", "A781MS107M1JLAS030" (!) = "", "CAPAE1030X1270N", "Capacitor Al Electrolytic", "80-A781MS107M1JLAS30", "https://www.mouser.co.uk/ProductDetail/KEMET/A781MS107M1JLAS030?qs=Li%252BoUPsLEnszoAyJyuwSrg%3D%3D", "A781, Aluminum, Hybrid Polymer, 100 uF, 20%, 63 VDC, -55/+135C, 135C, -55C, 135C, 2,000 Hrs, 8 % , 30 mOhms, 63 uA, 10mm, 12.2mm, 400, 52  Weeks", "https://content.kemet.com/datasheets/KEM_A4112_A781.pdf", "12.7 mm"
+END_PART
+
+END.
